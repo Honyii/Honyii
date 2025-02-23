@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [JSON Schema](https://json-schema.org/) in community engagements, leading Google Summer of Code (GSoC) 2025 and [Mozilla Common Voice](https://commonvoice.mozilla.org/en) in documentation.
 
-- 🌱 I’m actively contributing my testing, developer relations and community expertise to **Open Source Projects like OpenHands, Playwright, Common Voice, JSON Schema** amongst others.
+- 🌱 I’m actively contributing my testing, developer relations and community expertise to **Open Source Projects like Playwright, Common Voice, JSON Schema** amongst others.
 
 - 👯 I’m looking to collaborate on **Community and Developer Relations, Software Testing and Program Management**.
 
