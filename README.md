@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honyii" alt="honyii" /></a> </p>
 
-- 🔭 I’m currently working with [JSON Schema](https://json-schema.org/) in community engagements, leading Google Summer of Code (GSoC) 2025 and [Mozilla Common Voice](https://commonvoice.mozilla.org/en) in documentation.
+- 🔭 I’m currently working with [JSON Schema](https://json-schema.org/) in community engagements, leading Google Summer of Code (GSoC) 2025 and actively contributing to [Mozilla Common Voice](https://commonvoice.mozilla.org/en) in documentation.
 
 - 🌱 I’m actively contributing my testing, developer relations and community expertise to **Open Source Projects like Playwright, Common Voice, JSON Schema** amongst others.
 
